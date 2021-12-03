@@ -31,7 +31,7 @@ $ flutter run
 - Flutter
 - Provider
 - MobX
-- 
+
 # Autor
 Murilo Steinmetz Böhlke
 
